@@ -1,47 +1,52 @@
 # Android keyboard shortcuts
 
-Show help       🔍-/
-
 Bluetooth keyboard for macOS
 🔍 = cmd key
 
 Bluetooth keyboard for Windows
 🔍 = Windows key
 
-This cheat sheet assumes a macOS Bluetooth keyboard is used. Substitute cmd for the Windows key on Windows keyboards.
+
+## Core commands
+
+Action                 |  Shortcut
+-----------------------|-----------------
+Directional navigation | <kbd>→</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>↑</kbd> (arrow keys)
+Linear navigation      | <kbd>⇥ tab</kbd> …and… <kbd>shift</kbd> + <kbd>⇥ tab</kbd>
+Activate item          | <kbd>⏎ enter</kbd> …or… <kbd>space</kbd>
+Back                   | 🔍 + <kbd>del</kbd> …or… 🔍 + <kbd>backspace</kbd>
+Home                   | 🔍 + <kbd>enter</kbd> …or… <kbd>alt</kbd> + <kbd>esc</kbd> (sometimes)
+Menu                   | <kbd>ctrl</kbd> + <kbd>esc</kbd>
+App switcher           | <kbd>alt</kbd> + <kbd>tab</kbd> …and… <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>tab</kbd>
+Notifications          | 🔍 + <kbd>n</kbd>
+Show help              | 🔍 + <kbd>/</kbd>
 
 
-## Navigation
+## Home screen commands
 
-Directional     arrow keys ↑→↓←
-Linear          tab ⇥
-
-Activate        enter / space
-Back            cmd-del / cmd-backspace
-
-Home            cmd-enter / alt-esc (sometimes)
-Menu            ctrl-esc
-App switcher    alt-tab / alt-shift-tab
-Notifications   cmd-n
+Action         |  Shortcut
+---------------|-----------------
+App list       | <kbd>ctrl</kbd> + <kbd>a</kbd>
+Widgets        | <kbd>ctrl</kbd> + <kbd>w</kbd>
+Shortcuts      | <kbd>ctrl</kbd> + <kbd>s</kbd>
+Custom actions | <kbd>ctrl</kbd> + <kbd>o</kbd>
 
 
-## Home screen
+## Text commands
 
-App list        ctrl-a
-Widgets         ctrl-w
-Shortcuts       ctrl-s
-Custom actions  ctrl-o
-
-
-## Text
-
-Delete line     alt-del
+Action         |  Shortcut
+---------------|-----------------
+Delete line    | <kbd>alt</kbd> + <kbd>del</kbd>
 
 
-## TalkBack
+## TalkBack commands
 
-Global Context Menu   alt-space
-Local Context Menu    alt-shift-space
+Use the core keyboard commands above plus the following shortcuts to access TalkBack features.
+
+Action              |  Shortcut
+--------------------|-----------------
+Global context menu | <kbd>alt</kbd> + <kbd>space</kbd>
+Local context menu  | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>space</kbd>
 
 
 ## Resources
