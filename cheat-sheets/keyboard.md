@@ -1,10 +1,9 @@
 # Android keyboard shortcuts
 
-Bluetooth keyboard for macOS
-🔍 = cmd key
-
-Bluetooth keyboard for Windows
-🔍 = Windows key
+Keyboard                       |  Shortcut
+-------------------------------|-----------
+Bluetooth keyboard for macOS   | 🔍 = cmd key
+Bluetooth keyboard for Windows | 🔍 = Windows key
 
 
 ## Core commands
