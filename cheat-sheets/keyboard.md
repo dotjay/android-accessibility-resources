@@ -42,10 +42,19 @@ Delete line    | <kbd>alt</kbd> + <kbd>del</kbd>
 
 Use the core keyboard commands above plus the following shortcuts to access TalkBack features.
 
-Action              |  Shortcut
---------------------|-----------------
-Global context menu | <kbd>alt</kbd> + <kbd>space</kbd>
-Local context menu  | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>space</kbd>
+Action                     |  Shortcut
+---------------------------|---------------------------
+Read next item             | <kbd>alt</kbd> + <kbd>→</kbd>
+Read previous item         | <kbd>alt</kbd> + <kbd>←</kbd>
+Jump to top (first item)   | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>←</kbd>
+Jump to bottom (last item) | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>→</kbd>
+Global context menu        | <kbd>alt</kbd> + <kbd>space</kbd>
+Local context menu         | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>space</kbd>
+
+
+## Customising keyboard shortcuts
+
+You can customise TalkBack keyboard shortcuts in *Settings > Accessibility > TalkBack > Settings > Keyboard shortcuts*.
 
 
 ## Resources
