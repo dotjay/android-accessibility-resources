@@ -17,3 +17,9 @@ Gesture             | Action
 *Pinch fingers*     | Zoom out
 *2-finger drag*     | Pan around the screen
 *Triple-tap & hold* | Temporarily magnify
+
+
+## Resources
+
+- [Magnification Help](https://support.google.com/accessibility/android/answer/6006949)
+- [Magnification demo video](https://www.youtube.com/watch?v=yHqJOSZN1zA)
