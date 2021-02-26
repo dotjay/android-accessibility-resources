@@ -1,4 +1,4 @@
-# Android accessibilitys resources
+# Android accessibility resources
 
 Resources to help you learn about accessibility on Android, and design and build accessible native mobile apps. 
 
