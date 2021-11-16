@@ -70,6 +70,10 @@ Action               |  Shortcut keys
 Global context menu  | <kbd>alt</kbd> + <kbd>space</kbd>
 Local context menu   | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>space</kbd>
 
+### Note on TalkBack navigation
+
+When using TalkBack with a keyboard, you can still navigate through interactive content in the focus order using linear Tab navigation or directional navigation, but also read through all content ("accessibility traversal"). It's important to note that keyboard focus order and accessibility traversal order are separate concepts.
+
 
 ## Customising keyboard shortcuts
 
