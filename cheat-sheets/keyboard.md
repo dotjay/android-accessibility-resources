@@ -61,8 +61,14 @@ Read next item             | <kbd>alt</kbd> + <kbd>→</kbd>
 Read previous item         | <kbd>alt</kbd> + <kbd>←</kbd>
 Jump to top (first item)   | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>←</kbd>
 Jump to bottom (last item) | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>→</kbd>
-Global context menu        | <kbd>alt</kbd> + <kbd>space</kbd>
-Local context menu         | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>space</kbd>
+TalkBack menu              | <kbd>alt</kbd> + <kbd>space</kbd>
+
+TalkBack versions older than 9.1, split the functionality of the TalkBack menu into a global context menu and a local context menu.
+
+Action               |  Shortcut keys
+---------------------|---------------------------
+Global context menu  | <kbd>alt</kbd> + <kbd>space</kbd>
+Local context menu   | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>space</kbd>
 
 
 ## Customising keyboard shortcuts
