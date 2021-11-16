@@ -1,24 +1,30 @@
 # Android keyboard shortcuts
 
-Keyboard                       |  Shortcut
--------------------------------|-----------
-Bluetooth keyboard for macOS   | 🔍 = cmd key
-Bluetooth keyboard for Windows | 🔍 = Windows key
+
+## Meta key
+
+The <kbd>Meta</kbd> key used in some shortcuts will depend on the type of hardware keyboard being used.
+
+OS          |  Shortcut key
+------------|----------------
+Chromebook  |  <kbd>🔍 Search</kbd>
+macOS       |  <kbd>⌘ cmd</kbd>
+Windows     |  <kbd>⊞ Windows</kbd>
 
 
 ## Core commands
 
-Action                 |  Shortcut
------------------------|-----------------
-Directional navigation | <kbd>→</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>↑</kbd> (arrow keys)
-Linear navigation      | <kbd>⇥ tab</kbd> …and… <kbd>shift</kbd> + <kbd>⇥ tab</kbd>
-Activate item          | <kbd>⏎ enter</kbd> …or… <kbd>space</kbd>
-Back                   | 🔍 + <kbd>del</kbd> …or… 🔍 + <kbd>backspace</kbd>
-Home                   | 🔍 + <kbd>enter</kbd> …or… <kbd>alt</kbd> + <kbd>esc</kbd> (sometimes)
-Menu                   | <kbd>ctrl</kbd> + <kbd>esc</kbd>
-App switcher           | <kbd>alt</kbd> + <kbd>tab</kbd> …and… <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>tab</kbd>
-Notifications          | 🔍 + <kbd>n</kbd>
-Show help              | 🔍 + <kbd>/</kbd>
+Action                   |  Shortcut
+-------------------------|-----------------
+Directional navigation   | <kbd>→</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>↑</kbd> (arrow keys)
+Tab navigation (linear)  | <kbd>⇥ tab</kbd> …and… <kbd>shift</kbd> + <kbd>⇥ tab</kbd>
+Activate item            | <kbd>⏎ enter</kbd> …or… <kbd>space</kbd>
+Back                     | <kbd>Meta</kbd> + <kbd>del</kbd> …or… <kbd>Meta</kbd> + <kbd>backspace</kbd>
+Home                     | <kbd>Meta</kbd> + <kbd>enter</kbd> …or… <kbd>alt</kbd> + <kbd>esc</kbd> (sometimes)
+Menu                     | <kbd>ctrl</kbd> + <kbd>esc</kbd>
+App switcher             | <kbd>alt</kbd> + <kbd>tab</kbd> …and… <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>tab</kbd>
+Notifications            | <kbd>Meta</kbd> + <kbd>n</kbd>
+Show help                | <kbd>Meta</kbd> + <kbd>/</kbd>
 
 
 ## Home screen commands
