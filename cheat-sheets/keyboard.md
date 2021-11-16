@@ -14,10 +14,11 @@ Windows     |  <kbd>⊞ Windows</kbd>
 
 ## Core commands
 
-Action                   |  Shortcut
+Action                   |  Shortcut keys
 -------------------------|-----------------
 Directional navigation   | <kbd>→</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>↑</kbd> (arrow keys)
 Tab navigation (linear)  | <kbd>⇥ tab</kbd> …and… <kbd>shift</kbd> + <kbd>⇥ tab</kbd>
+Cluster navigation       | <kbd>Meta</kbd> + <kbd>⇥ tab</kbd> …and… <kbd>Meta</kbd> + <kbd>shift</kbd> + <kbd>⇥ tab</kbd>
 Activate item            | <kbd>⏎ enter</kbd> …or… <kbd>space</kbd>
 Back                     | <kbd>Meta</kbd> + <kbd>del</kbd> …or… <kbd>Meta</kbd> + <kbd>backspace</kbd>
 Home                     | <kbd>Meta</kbd> + <kbd>enter</kbd> …or… <kbd>alt</kbd> + <kbd>esc</kbd> (sometimes)
@@ -26,10 +27,16 @@ App switcher             | <kbd>alt</kbd> + <kbd>tab</kbd> …and… <kbd>alt</k
 Notifications            | <kbd>Meta</kbd> + <kbd>n</kbd>
 Show help                | <kbd>Meta</kbd> + <kbd>/</kbd>
 
+### Note on keyboard navigation clusters
+
+Since Android Oreo, top-level navigation containers have been grouped together into [keyboard navigation clusters](https://developer.android.com/about/versions/oreo/android-8.0#kbnc). Clusters may include: navigation bars, toolbars, main content areas, side panels, etc.
+
+Controls within these containers are removed from the activity's Tab navigation order, instead forming independent widgets that are reached using the cluster navigation shortcuts shown in the table above. Once a cluster has received focus, Tab navigation can then be used to reach each control within the cluster.
+
 
 ## Home screen commands
 
-Action         |  Shortcut
+Action         |  Shortcut keys
 ---------------|-----------------
 App list       | <kbd>ctrl</kbd> + <kbd>a</kbd>
 Widgets        | <kbd>ctrl</kbd> + <kbd>w</kbd>
@@ -39,7 +46,7 @@ Custom actions | <kbd>ctrl</kbd> + <kbd>o</kbd>
 
 ## Text commands
 
-Action         |  Shortcut
+Action         |  Shortcut keys
 ---------------|-----------------
 Delete line    | <kbd>alt</kbd> + <kbd>del</kbd>
 
@@ -48,7 +55,7 @@ Delete line    | <kbd>alt</kbd> + <kbd>del</kbd>
 
 Use the core keyboard commands above plus the following shortcuts to access TalkBack features.
 
-Action                     |  Shortcut
+Action                     |  Shortcut keys
 ---------------------------|---------------------------
 Read next item             | <kbd>alt</kbd> + <kbd>→</kbd>
 Read previous item         | <kbd>alt</kbd> + <kbd>←</kbd>
